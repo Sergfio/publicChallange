@@ -25,7 +25,7 @@ body {
     display: flex;
 	min-height: 695px;
     max-width: 1434px;
-    background: url('./img/group.svg') center top no-repeat,
+    background: url('/img/group.svg') center top no-repeat,
         linear-gradient(
 		102.87deg,
 		#fceed5 6.43%,
